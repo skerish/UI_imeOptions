@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UI_imeAction</string>
+    <string name="phone_hint">Enter phone number</string>
+</resources>
